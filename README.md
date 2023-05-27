@@ -24,5 +24,9 @@ async def start():
     await music.ask_async("repetition heavy grindhouse electro cut copy",1,"output")
 asyncio.run(start())
 ```
+# some notes:
+this project uses requests, so it is possible to run in cli mode, without having the need of setting up gui and stuff like that
+this also means that your ram will thank you :]
+
 
 thanks for checking it out :]
