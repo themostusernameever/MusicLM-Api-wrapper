@@ -6,6 +6,14 @@ A simple and low resource reverse engineered api wrapper for google's music lm e
 - Requests_html
 - Base64
 
+# getting the token:
+to get the token, you need to open the ai kitchen page of musiclm, and open your developer console (ctrl + shift + i on most browsers)
+then, navigate to the network tab, and send any prompt to the ai
+you will see new post request
+wait until the ai is done and then click on the post request.
+find on the headers page a header called "Authorization", and copy the value
+thats your token!
+
 # Usage:
 using it is pretty simple, heres an example:
 ```
