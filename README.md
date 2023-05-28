@@ -43,6 +43,7 @@ this also means that your ram will thank you :]
 
 update:
 ai kitchen often refreshes the tokens, so you will have to update them if the script doesnt work
+
 i will try to automate this, but not 100% sure that this will work
 
 
