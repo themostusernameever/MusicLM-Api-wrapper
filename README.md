@@ -41,5 +41,9 @@ asyncio.run(start())
 this project uses requests, so it is possible to run in cli mode, without having the need of setting up gui and stuff like that
 this also means that your ram will thank you :]
 
+update:
+ai kitchen often refreshes the tokens, so you will have to update them if the script doesnt work
+i will try to automate this, but not 100% sure that this will work
+
 
 thanks for checking it out :]
